@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^login$ login.php
+RewriteRule ^admin$ admin.php
+
+
